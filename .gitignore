@@ -1,0 +1,10 @@
+# Ambientes virtuais e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ferramentas de CLI / IDEs
+.antigravitycli/
+.vscode/
+.idea/

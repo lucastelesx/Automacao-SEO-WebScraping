@@ -1,0 +1,3 @@
+https://quotes.toscrape.com/
+https://quotes.toscrape.com/page/2/
+https://site-que-nao-existe.com/
