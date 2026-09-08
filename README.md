@@ -47,6 +47,3 @@ pip install -r requirements.txt
 ```bash
 python seo_scraper.py
 ```
-
----
-Desenvolvido por [Lucas Telles](https://github.com/lucastelesx).
